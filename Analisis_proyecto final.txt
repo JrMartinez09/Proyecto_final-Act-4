@@ -1,0 +1,6 @@
+El problema descrito indica que la empresa de seguros TK-U se encuentra en una situación de atraso en la entrega de cotizaciones debido a que estas se realizan de forma manual, 
+esto hace que el proceso sea lento y solo se puedan generar como máximo 50 cotizaciones al día. 
+Esta situación afecta el proceso para nuevos clientes lo que puede resultar en pérdidas económicas para la empresa.
+Para solucionar este problema, se propone la implementación de un cotizador automático que permita generar cotizaciones de forma más rápida. 
+Esto mejoraría el proceso de cotización, reduciría el tiempo de espera para los clientes y aumentaría la cantidad de cotizaciones que se pueden generar en un día. 
+Así mismo reduce los errores que el factor humano podría generar al ingresar datos o generar cálculos manuales.
